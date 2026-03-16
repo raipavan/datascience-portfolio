@@ -28,7 +28,7 @@ const About = ({ id }) => {
                         Throughout my academic journey, I've tackled projects ranging from deep learning prototypes to comprehensive data pipelines. I'm actively seeking opportunities to apply my analytical skills in a dynamic, real-world setting.
                     </p>
 
-                    <a href="src/assets/pavan_resume__.pdf" download="Pavankumar_Rai_Resume.pdf" className="btn btn-outline" style={{ display: 'inline-flex', alignItems: 'center', gap: '0.75rem', borderColor: 'var(--primary)', color: 'var(--text-primary)' }}>
+                    <a href="/pavan_resume__.pdf" download="Pavankumar_Rai_Resume.pdf" className="btn btn-outline" style={{ display: 'inline-flex', alignItems: 'center', gap: '0.75rem', borderColor: 'var(--primary)', color: 'var(--text-primary)' }}>
                         Download Resume
                     </a>
                 </div>
